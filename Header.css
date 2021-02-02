@@ -1,0 +1,114 @@
+.container{
+    max-width: 1200px;
+   margin-top: 10px;
+  
+   
+}
+.dropdown-toggle{
+  
+    margin:10px; 
+    font-size: 13px;
+    color: lightslategrey;
+}
+
+
+.call{
+    margin:20px; 
+    font-size: 14px;
+    color: lightslategrey;
+   margin-left: 300px;
+}
+.contact{
+    margin:20px; 
+    font-size: 14px;
+    color: lightslategrey;
+   
+}
+.mywish{
+    margin:20px; 
+    font-size: 14px;
+    color: lightslategrey;
+    
+}
+.about{
+    margin:20px; 
+    font-size: 14px;
+    color: lightslategrey;
+   
+}
+.login{
+    margin:20px; 
+    font-size: 14px;
+    color: lightslategrey;
+    margin-right: 0;
+   
+
+   
+}
+
+ 
+.logo{
+    width: 110px; 
+    margin:20px;
+    margin-left: 0;
+    display: flex; 
+}
+.shops{
+    margin-left: 0;
+    margin:15px; 
+    font-size: 14px;
+    color:rgb(204, 190, 63);
+   
+}
+.shop{
+    margin:15px; 
+    font-size: 14px;
+    color: lightslategrey;
+}
+.searchicon{
+ 
+   margin-right: 50px;
+    color: rgb(133, 133, 60);
+    width: 15px;
+    margin-bottom: 50px;
+    align-items: center;
+    margin:25px; 
+}
+.search{
+    border-radius: 360px;
+    background-color: rgba(251, 252, 250, 0);
+    border-color: rgb(251, 252, 250 ,0);
+    border-width: 0.1px;
+   margin-right: 100px;
+    margin:25px; 
+    height: 25px;
+    width: 80%;
+    text-align:center;
+   
+}
+
+.cart{
+   
+    border-width: 0.1px;
+    border-color: rgb(204, 190, 63);
+    border-bottom: rgb(204, 190, 63);
+   
+    width:29px;
+    height: 25px;
+    background:var(--maincolor);
+    background-color:rgb(204, 190, 63);
+    color:var(--whitecolor);
+    border-radius:50%;
+    line-height:10px;
+    text-align:center;
+    font-size:12px;
+   
+   
+   
+}
+.cartimg{
+width: 20px;
+height: 60px;
+
+
+}
